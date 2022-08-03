@@ -5,7 +5,7 @@
 
 
 <h2>Bahan bahan</h2>
-
+  <img src="4.png" alt="roti maryam" align="right">
 <ul>
   <li>250 gr tepung trigu</li>
   <li>1 butir telur </li>
